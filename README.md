@@ -30,7 +30,7 @@ pip install pandas scikit-learn joblib
 
 ---
 
-##📂 Repository Structure
+## 📂 Repository Structure
 * main.py: Core script (Trains model & runs UI)
 * placement_data.csv: Synthetic dataset (500 records)
 * placement_model.pkl: Saved trained model
@@ -38,7 +38,7 @@ pip install pandas scikit-learn joblib
 * project_report.pdf : Project Report of the ML model
   
 ---
-##💻 How to Use
+## 💻 How to Use
 * Ensure placement_data.csv is in the same folder as main.py.
 * Run the application: python main.py
 * Enter your CGPA, internships, and skill scores as prompted.
