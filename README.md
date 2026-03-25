@@ -45,5 +45,14 @@ pip install pandas scikit-learn joblib
 * View the status and confidence score.
 
 ---
+
+
+## 🎓 Learning Outcomes
+- Understanding of Machine Learning workflow
+- Working with real-world datasets
+- Text preprocessing and NLP techniques
+- Model evaluation using accuracy and confusion matrix
+
+---
 Created for VITyarthi BYOP Capstone Activity - March 2026.
 ---
