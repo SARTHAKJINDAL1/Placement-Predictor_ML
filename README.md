@@ -32,7 +32,7 @@ pip install pandas scikit-learn joblib
 
 ## 📂 Repository Structure
 * main.py: Core script (Trains model & runs UI)
-* placement_data.csv: Synthetic dataset (500 records)
+* placement_data.csv: Synthetic dataset (1000 records)
 * placement_model.pkl: Saved trained model
 * screenshots/: Visual evidence of functionality
 * project_report.pdf : Project Report of the ML model
